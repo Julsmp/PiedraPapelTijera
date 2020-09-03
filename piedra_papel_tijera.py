@@ -3,6 +3,9 @@
 #  v0.1
 #
 #  by Julia Martínez 08/2020
+# 
+#  ******* Esto es solo un ejemplo de otra versión del programa, 
+#          en otra rama (branch) de git *******
 #  
 # ===================================================
 
